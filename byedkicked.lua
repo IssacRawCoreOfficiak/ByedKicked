@@ -1,4 +1,3 @@
-lua
 -- gui
 local gui = Instance.new("ScreenGui")
 local frame = Instance.new("Frame")
